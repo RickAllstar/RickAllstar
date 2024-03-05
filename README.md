@@ -1,4 +1,4 @@
-<script src="https://gist.github.com/RickAllstar/82f48089945acc6445c4151178375e53.js"></script>
+[<script src="https://gist.github.com/RickAllstar/82f48089945acc6445c4151178375e53.js"></script>](https://raw.githubusercontent.com/gist/RickAllstar/82f48089945acc6445c4151178375e53/raw/3a2c5710864212fff649fa13077ec0b02303ee42/githubnewcard.svg)
 <h1 align="left">Hello Dev's <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rick</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
