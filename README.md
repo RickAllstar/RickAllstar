@@ -6,7 +6,7 @@
 
 - 🔭 Looking for internship
 
-- 👨‍💻 More in my Linkedin [Herique Reis]([https://maykbrito.dev](https://www.linkedin.com/in/henrique-quirino-350736247/)
+- 👨‍💻 More in my Linkedin [Herique Reis](https://www.linkedin.com/in/henrique-quirino-350736247/)
 
 <!--
 
