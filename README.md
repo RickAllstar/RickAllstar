@@ -1,4 +1,4 @@
-<img align="right" height="590em"  src="https://gist.github.com/RickAllstar/82f48089945acc6445c4151178375e53.js">
+<script src="https://gist.github.com/RickAllstar/82f48089945acc6445c4151178375e53.js"></script>
 <h1 align="left">Hello Dev's <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rick</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
@@ -46,7 +46,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-!
+![Python]<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 <p align="left">
  🔎 Meus status:
