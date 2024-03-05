@@ -48,9 +48,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-<p align="left">
+<br><br>
+<h2 align="left">
  🔎 Meus status:
-</p>
+</h2>
 
 ![RickAllstar's Stats](https://github-readme-stats.vercel.app/api?username=RickAllstar&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![RickAllstar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RickAllstar&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
