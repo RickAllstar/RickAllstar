@@ -1,5 +1,4 @@
-<img align="right" height="590em" src="![image](https://github.com/RickAllstar/RickAllstar/assets/77730247/21439bec-f526-4a29-8f5e-01603d3d071c)
-"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/RickAllstar/3f23ef3f31e1d52c296bd36fdab5b070/raw/ebc65e1667ccdbe5526fe4a26d63f25777b4b8d3/githubcard.svg"/>
 <h1 align="left">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rick</h1>
 
 
