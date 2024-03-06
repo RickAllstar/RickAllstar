@@ -10,7 +10,6 @@
 
 <br><br>
           
-<br><br>
 ## 🛠 &nbsp;Tech Stack
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -25,32 +24,9 @@
 
 <br><br>
 
-<br><br>
-          
-<br><br>
 <h2 align="left">
  🔎 Meus status:
 </h2>
 
 ![RickAllstar's Stats](https://github-readme-stats.vercel.app/api?username=RickAllstar&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![RickAllstar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RickAllstar&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-
-<!--
-
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-
-
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
