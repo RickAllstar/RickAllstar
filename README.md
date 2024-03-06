@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/RickAllstar/82f48089945acc6445c4151178375e53/raw/3a2c5710864212fff649fa13077ec0b02303ee42/githubnewcard.svg"/>
-<h1 align="left">Hello Dev's <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rick</h1>
+<h1 align="left">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rick</h1>
 
 
 - 🔥 Student Senai Information Technology Training Center - CTTI MG 
@@ -8,7 +8,9 @@
 
 - 👨‍💻 More in my Linkedin [Herique Reis](https://www.linkedin.com/in/henrique-quirino-350736247/)
 
-
+<br><br>
+          
+<br><br>
 ## 🛠 &nbsp;Tech Stack
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
