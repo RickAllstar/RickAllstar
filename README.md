@@ -1,4 +1,5 @@
-<img align="right" height="590em" [src="https://raw.githubusercontent.com/gist/RickAllstar/82f48089945acc6445c4151178375e53/raw/3a2c5710864212fff649fa13077ec0b02303ee42/githubnewcard.svg"/>](https://raw.githubusercontent.com/gist/RickAllstar/3f23ef3f31e1d52c296bd36fdab5b070/raw/27b901b9f569d2c8de854701d5c403e8e037df7b/githubnewcard.svg)
+<img align="right" height="590em" 
+https://raw.githubusercontent.com/gist/RickAllstar/3f23ef3f31e1d52c296bd36fdab5b070/raw/27b901b9f569d2c8de854701d5c403e8e037df7b/githubnewcard.svg
 <h1 align="left">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rick</h1>
 
 
