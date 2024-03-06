@@ -7,10 +7,11 @@
 - 🔭 Looking for internship
 
 - 👨‍💻 More in my Linkedin [Herique Reis](https://www.linkedin.com/in/henrique-quirino-350736247/)
+<br>
 
   ![RickAllstar's Stats](https://github-readme-stats.vercel.app/api?username=RickAllstar&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-<br><br>
+<br>
           
 ## 🛠 &nbsp;Tech Stack
 
