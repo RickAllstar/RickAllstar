@@ -2,16 +2,14 @@
 <h1 align="left">Hello World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rick</h1>
 
 
-- 🔥 Student Senai Information Technology Training Center - CTTI MG 
+- 🦇 Student Senai Information Technology Training Center - CTTI MG 
 
-- 🔭 Looking for internship
+- 🦇 Looking for internship
 
 - 👨‍💻 More in my Linkedin [Herique Reis](https://www.linkedin.com/in/henrique-quirino-350736247/)
 <br>
 
 ![RickAllstar's Stats](https://github-readme-stats.vercel.app/api?username=RickAllstar&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
- 
-<br>
           
 ## 🛠 &nbsp;Tech Stack
 
@@ -28,6 +26,6 @@
 <br><br>
 
 <h2 align="left">
- 🔎 Meus status:
+ ☕ Stats:
  
 ![RickAllstar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RickAllstar&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact) ![RickAllstar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RickAllstar&theme=midnight-purple&hide_border=true)
