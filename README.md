@@ -8,6 +8,8 @@
 
 - 👨‍💻 More in my Linkedin [Herique Reis](https://www.linkedin.com/in/henrique-quirino-350736247/)
 
+  ![RickAllstar's Stats](https://github-readme-stats.vercel.app/api?username=RickAllstar&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
 <br><br>
           
 ## 🛠 &nbsp;Tech Stack
@@ -27,6 +29,4 @@
 <h2 align="left">
  🔎 Meus status:
 </h2>
-
-![RickAllstar's Stats](https://github-readme-stats.vercel.app/api?username=RickAllstar&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 ![RickAllstar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RickAllstar&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
