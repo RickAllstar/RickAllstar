@@ -29,5 +29,5 @@
 
 <h2 align="left">
  🔎 Meus status:
-</h2>
-![RickAllstar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RickAllstar&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+ 
+![RickAllstar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RickAllstar&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact) ![RickAllstar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RickAllstar&theme=midnight-purple&hide_border=true)
